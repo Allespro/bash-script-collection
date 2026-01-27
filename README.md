@@ -8,3 +8,4 @@ Only Bash
 
 ## Containers
 - [docker_extract_AC.sh](https://github.com/Allespro/bash-script-collection/blob/main/docker_extract_AC.sh) - Bash script that copies modified files from Docker container with directory filtering
+- [migrate_docker_volumes_ssh.sh](https://github.com/Allespro/bash-script-collection/blob/main/migrate_docker_volumes_ssh.sh) - Bash script that migrate docker volumes from one server to other; custom ssh port; ssh key auth available
